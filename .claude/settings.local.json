@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(pip install:*)",
+      "Bash(tesseract:*)",
+      "Bash(python:*)",
+      "Bash(findstr:*)",
+      "Bash(where:*)",
+      "Bash(if not exist \"final\" mkdir final)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
